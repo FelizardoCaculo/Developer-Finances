@@ -1,0 +1,27 @@
+{
+  "name": "developer-finances",
+  "version": "1.0.0",
+  "description": "Aplicação para controlo financeiro de desenvolvedores, criada durante uma Maratona desenvolvida pela Rocketseat",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelizardoCaculo/Developer-Finances.git"
+  },
+  "keywords": [],
+  "author": "Felizardo Caculo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelizardoCaculo/Developer-Finances/issues"
+  },
+  "homepage": "https://github.com/FelizardoCaculo/Developer-Finances#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

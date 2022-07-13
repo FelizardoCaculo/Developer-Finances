@@ -105,3 +105,6 @@ dist
 
 # Docker Ignore
 .dockerignore
+
+# Documentation
+.documentation.md
